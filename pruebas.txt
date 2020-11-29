@@ -1,0 +1,2 @@
+Este es un nuevo archivo 
+que estoy creando para hacer pruebas sobre el funcionamiento de git
