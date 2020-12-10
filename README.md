@@ -1,5 +1,4 @@
-
-# HYPERBLOG  :tw-1f30d: :tw-1f236: :tw-ae: :tw-1f51d:
+# HYPERBLOG 👽
 
 > Primera práctica en Markdown para hacer un readme decente.
 
