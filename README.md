@@ -10,3 +10,4 @@ UN POCO DE TODO
 1. En el curso se ven los diferentes comandos y usos de Git y GitHub
 2. Cómo trabajar desde la consola de Git y como hacerlo desde la interfaz de GitHub
 3. Cómo añadir colaboradores a nuestro proyecto y cómo colaborar en proyectos open source.
+4. Creado por Danielg8910
